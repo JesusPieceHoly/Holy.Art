@@ -16,7 +16,7 @@
         }
     },
     "identities": {
-        "89cad9e3e34280eb1e8bc420542c00a7fcc01002b663dbf7f38bceddf80e680c": {
+        "1a3d14f253bd2d2149f1f6b7318bcccc5a73b79c58b790599c830143c3e4364a": {
             "2023-01-13T00:00:00.000Z": {
                 "extensions": {
                     "royalty": {
@@ -29,7 +29,7 @@
             "name": "Holy.Art",
             "description": "Holy Art hand drawn by Britney - Raising funds for charity and spreading hope",
             "token": {
-                "category": "89cad9e3e34280eb1e8bc420542c00a7fcc01002b663dbf7f38bceddf80e680c",
+                "category": "1a3d14f253bd2d2149f1f6b7318bcccc5a73b79c58b790599c830143c3e4364a",
                 "symbol": "HART",
                 "nfts": {
                     "parse": {
