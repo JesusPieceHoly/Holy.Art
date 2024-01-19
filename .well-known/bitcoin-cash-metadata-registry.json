@@ -20,7 +20,7 @@
             "2023-01-13T00:00:00.000Z": {
                 "extensions": {
                     "royalty": {
-                        "address": "bitcoincash:qqxjdhzx8dzwkqcnlzarwywsld62nnx86ulg8hegxu",
+                        "address": "bitcoincash:qrt5thrl2c46anlajcjh8lv4r505a436rvty6w3upx",
                         "feePermille": "10",
                         "feeMin": "1000"
                     }
