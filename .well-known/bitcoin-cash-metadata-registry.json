@@ -6,9 +6,9 @@
     "name": "Example.com Token Registry",
     "description": "An example registry demonstrating how the issuer of a non-fungible token (NFT) art collection might publish information about the collection.",
     "uris": {
-      "icon": "https://example.com/registry-icon.svg",
-      "web": "https://example.com/",
-      "registry": "https://example.com/.well-known/bitcoin-cash-metadata-registry.json"
+      "icon": "https://bafkreihgbmhkx4elqeppoezayyi3o73mu3ubx5o6a5l22h3y42jfb2r52a.ipfs.nftstorage.link/",
+      "web": "https://tapswap.cash",
+      "registry": "https://raw.githubusercontent.com/JesusPieceHoly/Holy.Art/main/.well-known/bitcoin-cash-metadata-registry.json"
     }
   },
   "identities": {
@@ -120,14 +120,9 @@
           }
         },
         "uris": {
-          "icon": "https://example.com/xamplz-icon.svg",
-          "web": "https://example.com/about-xamplz-nfts",
-          "blog": "https://blog.example.com/",
-          "chat": "https://chat.example.com/",
-          "forum": "https://forum.example.com/",
-          "registry": "https://example.com/.well-known/bitcoin-cash-metadata-registry.json",
-          "support": "https://support.example.com/",
-          "custom-uri-identifier": "protocol://connection-info-for-some-protocol"
+          "icon": "https://bafkreihgbmhkx4elqeppoezayyi3o73mu3ubx5o6a5l22h3y42jfb2r52a.ipfs.nftstorage.link/",
+          "telegram": "https://t.me/HOLYJesusPiece",
+          "artist": "https://britney2617.imgbb.com",
         }
       }
     }
