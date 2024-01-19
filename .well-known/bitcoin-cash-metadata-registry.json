@@ -21,7 +21,7 @@
                 "extensions": {
                     "royalty": {
                         "address": "bitcoincash:qrt5thrl2c46anlajcjh8lv4r505a436rvty6w3upx",
-                        "feePermille": "10",
+                        "feePermille": "80",
                         "feeMin": "1000"
                     }
                 }
