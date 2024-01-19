@@ -1,131 +1,139 @@
 {
-  "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
-  "version": { "major": 1, "minor": 1, "patch": 0 },
-  "latestRevision": "2023-04-14T00:00:17.720Z",
-  "registryIdentity": {
-    "name": "Example.com Token Registry",
-    "description": "An example registry demonstrating how the issuer of a non-fungible token (NFT) art collection might publish information about the collection.",
-    "uris": {
-      "icon": "https://bafkreihgbmhkx4elqeppoezayyi3o73mu3ubx5o6a5l22h3y42jfb2r52a.ipfs.nftstorage.link/",
-      "web": "https://tapswap.cash",
-      "registry": "https://raw.githubusercontent.com/JesusPieceHoly/Holy.Art/main/.well-known/bitcoin-cash-metadata-registry.json"
-    }
-  },
-  "identities": {
-    "89cad9e3e34280eb1e8bc420542c00a7fcc01002b663dbf7f38bceddf80e680c": {
-      "2023-01-13T00:00:00.000Z":{
-    "extensions": {
-        "royalty": {
-            "address": "bitcoincash:qqxjdhzx8dzwkqcnlzarwywsld62nnx86ulg8hegxu",
-            "feePermille": "10",
-            "feeMin": "1000"
-        }
-    }
-}
-
- {
-        "name": "Holy.Art",
-        "description": "Holy Art hand drawn by Britney - Raising funds for charity and spreading hope",
-        "token": {
-          "category": "89cad9e3e34280eb1e8bc420542c00a7fcc01002b663dbf7f38bceddf80e680c",
-          "symbol": "HART",
-          "nfts": {
-            "parse": {
-              "types": {
-                "": {
-                  "name": "Seek Strength",
-                  "description": "Seek the Lord for continued strength",
-                  "uris": {
-                    "icon": "ipfs://bafybeiapz6thahx7qfwfxkwyrn3m3pgvd2dpzhotuyztosgn7ke4jz2y6e",
-                    "image": "ipfs://bafybeiapz6thahx7qfwfxkwyrn3m3pgvd2dpzhotuyztosgn7ke4jz2y6e",
-                    "web": "https://bafybeiapz6thahx7qfwfxkwyrn3m3pgvd2dpzhotuyztosgn7ke4jz2y6e.ipfs.nftstorage.link/"
-                  }
-                },
-                "01": {
-                  "name": "Protection by Faith",
-                  "description": "Let your faith give comfort in protection of eternity",
-                  "uris": {
-                    "icon": "ipfs://bafybeidnysp75vhumpzioqtn2ne43ajs7umtcbx3u2yu3u6kak5ggvfge4",
-                    "image": "ipfs://bafybeidnysp75vhumpzioqtn2ne43ajs7umtcbx3u2yu3u6kak5ggvfge4",
-                    "web": "https://bafybeidnysp75vhumpzioqtn2ne43ajs7umtcbx3u2yu3u6kak5ggvfge4.ipfs.nftstorage.link/"
-                  }
-                },
-                "02": {
-                  "name": "Holy Cross",
-                  "description": "Forgiven Sins, Paid in Full",
-                  "uris": {
-                    "icon": "ipfs://bafybeiey44f2s7ujoioc6q6pthfvxqsw5ybqauuwfotqdm63nzy7h5qt64",
-                    "image": "ipfs://bafybeiey44f2s7ujoioc6q6pthfvxqsw5ybqauuwfotqdm63nzy7h5qt64",
-                    "web": "https://bafybeiey44f2s7ujoioc6q6pthfvxqsw5ybqauuwfotqdm63nzy7h5qt64.ipfs.nftstorage.link/"
-                  },
-		"03": {
-                  "name": "Eternal Offering",
-                  "description": "God's kingdom awaits",
-                  "uris": {
-                    "icon": "ipfs://bafybeie7up6x6uh5mmbfbtao7svbg6kvdt5uik3wrzbc3hwwi7jdpw5ynu",
-                    "image": "ipfs://bafybeie7up6x6uh5mmbfbtao7svbg6kvdt5uik3wrzbc3hwwi7jdpw5ynu",
-                    "web": "https://bafybeie7up6x6uh5mmbfbtao7svbg6kvdt5uik3wrzbc3hwwi7jdpw5ynu.ipfs.nftstorage.link/"
-                },
-		"04": {
-                  "name": "Gift of Family",
-                  "description": "Created in his image, taught by his love",
-                  "uris": {
-                    "icon": "ipfs://bafybeie3jaf36xvuurap5atfxwcdjjuzmewnlg2tsmenwddzofhv4xbvfu",
-                    "image": "ipfs://bafybeie3jaf36xvuurap5atfxwcdjjuzmewnlg2tsmenwddzofhv4xbvfu",
-                    "web": "https://bafybeie3jaf36xvuurap5atfxwcdjjuzmewnlg2tsmenwddzofhv4xbvfu.ipfs.nftstorage.link/"
-		},
-		"05": {
-                  "name": "Holy Badge of Faith",
-                  "description": "The candle in the darkness is carried by you. God is with you",
-                  "uris": {
-                    "icon": "ipfs://bafybeidx676f47ks37kuwbhqtyqr54exqbz6w32dj7qieogb567ej4caae",
-                    "image": "ipfs://bafybeidx676f47ks37kuwbhqtyqr54exqbz6w32dj7qieogb567ej4caae",
-                    "web": "https://bafybeidx676f47ks37kuwbhqtyqr54exqbz6w32dj7qieogb567ej4caae.ipfs.nftstorage.link/"
-		},
-		"06": {
-                  "name": "Never Give Up",
-                  "description": "When there appears to be no hope, you are not alone. Continue on",
-                  "uris": {
-                    "icon": "ipfs://bafybeihpiigwyjqocpvb4om3ex5t6sgw2l5juh2s24emzfcm4rms3kpbke",
-                    "image": "ipfs://bafybeihpiigwyjqocpvb4om3ex5t6sgw2l5juh2s24emzfcm4rms3kpbke",
-                    "web": "https://bafybeihpiigwyjqocpvb4om3ex5t6sgw2l5juh2s24emzfcm4rms3kpbke.ipfs.nftstorage.link/"
-		},
-		"07": {
-                  "name": "Reach",
-                  "description": "A helping hand is always extended, you must be the one to accept",
-                  "uris": {
-                    "icon": "ipfs://bafybeidwsygleriqd4akdjfz2fihocwqixrtj4nnikim6jlxk4wngc77nm",
-                    "image": "ipfs://bafybeidwsygleriqd4akdjfz2fihocwqixrtj4nnikim6jlxk4wngc77nm",
-                    "web": "https://bafybeidwsygleriqd4akdjfz2fihocwqixrtj4nnikim6jlxk4wngc77nm.ipfs.nftstorage.link/"
-		},
-		"08": {
-                  "name": "Trust in the Lord",
-                  "description": "Trust in the Lord and he will provide. The food of life is plentiful",
-                  "uris": {
-                    "icon": "ipfs://bafybeifobiryuhjsjgcmyktzmexmdte5lqviicakqno75ydrtyffsshjva",
-                    "image": "ipfs://bafybeifobiryuhjsjgcmyktzmexmdte5lqviicakqno75ydrtyffsshjva",
-                    "web": "https://bafybeifobiryuhjsjgcmyktzmexmdte5lqviicakqno75ydrtyffsshjva.ipfs.nftstorage.link/"
-		},
-		"09": {
-                  "name": "Sacrifice",
-                  "description": "The price has been paid in full by the blood of Christ. Be thankful",
-                  "uris": {
-                    "icon": "ipfs://bafybeihot6ye25g7ykyxzj2vpc2pkuyeej6ldicjnidqq6qlkioc6k66em",
-                    "image": "ipfs://bafybeihot6ye25g7ykyxzj2vpc2pkuyeej6ldicjnidqq6qlkioc6k66em",
-                    "web": "https://bafybeihot6ye25g7ykyxzj2vpc2pkuyeej6ldicjnidqq6qlkioc6k66em.ipfs.nftstorage.link/"
-		  }
-		}
-              }
-            }
-          }
-        },
+    "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+    "version": {
+        "major": 1,
+        "minor": 1,
+        "patch": 0
+    },
+    "latestRevision": "2023-04-14T00:00:17.720Z",
+    "registryIdentity": {
+        "name": "Example.com Token Registry",
+        "description": "An example registry demonstrating how the issuer of a non-fungible token (NFT) art collection might publish information about the collection.",
         "uris": {
-          "icon": "https://bafkreihgbmhkx4elqeppoezayyi3o73mu3ubx5o6a5l22h3y42jfb2r52a.ipfs.nftstorage.link/",
-          "telegram": "https://t.me/HOLYJesusPiece",
-          "artist": "https://britney2617.imgbb.com"
+            "icon": "https://bafkreihgbmhkx4elqeppoezayyi3o73mu3ubx5o6a5l22h3y42jfb2r52a.ipfs.nftstorage.link/",
+            "web": "https://tapswap.cash",
+            "registry": "https://raw.githubusercontent.com/JesusPieceHoly/Holy.Art/main/.well-known/bitcoin-cash-metadata-registry.json"
         }
-      }
-    }
-  },
-  "license": "CC0-1.0"
+    },
+    "identities": {
+        "89cad9e3e34280eb1e8bc420542c00a7fcc01002b663dbf7f38bceddf80e680c": {
+            "2023-01-13T00:00:00.000Z": {
+                "extensions": {
+                    "royalty": {
+                        "address": "bitcoincash:qqxjdhzx8dzwkqcnlzarwywsld62nnx86ulg8hegxu",
+                        "feePermille": "10",
+                        "feeMin": "1000"
+                    }
+                }
+            },
+            "name": "Holy.Art",
+            "description": "Holy Art hand drawn by Britney - Raising funds for charity and spreading hope",
+            "token": {
+                "category": "89cad9e3e34280eb1e8bc420542c00a7fcc01002b663dbf7f38bceddf80e680c",
+                "symbol": "HART",
+                "nfts": {
+                    "parse": {
+                        "types": {
+                            "": {
+                                "name": "Seek Strength",
+                                "description": "Seek the Lord for continued strength",
+                                "uris": {
+                                    "icon": "ipfs://bafybeiapz6thahx7qfwfxkwyrn3m3pgvd2dpzhotuyztosgn7ke4jz2y6e",
+                                    "image": "ipfs://bafybeiapz6thahx7qfwfxkwyrn3m3pgvd2dpzhotuyztosgn7ke4jz2y6e",
+                                    "web": "https://bafybeiapz6thahx7qfwfxkwyrn3m3pgvd2dpzhotuyztosgn7ke4jz2y6e.ipfs.nftstorage.link/"
+                                }
+                            },
+                            "01": {
+                                "name": "Protection by Faith",
+                                "description": "Let your faith give comfort in protection of eternity",
+                                "uris": {
+                                    "icon": "ipfs://bafybeidnysp75vhumpzioqtn2ne43ajs7umtcbx3u2yu3u6kak5ggvfge4",
+                                    "image": "ipfs://bafybeidnysp75vhumpzioqtn2ne43ajs7umtcbx3u2yu3u6kak5ggvfge4",
+                                    "web": "https://bafybeidnysp75vhumpzioqtn2ne43ajs7umtcbx3u2yu3u6kak5ggvfge4.ipfs.nftstorage.link/"
+                                }
+                            },
+                            "02": {
+                                "name": "Holy Cross",
+                                "description": "Forgiven Sins, Paid in Full",
+                                "uris": {
+                                    "icon": "ipfs://bafybeiey44f2s7ujoioc6q6pthfvxqsw5ybqauuwfotqdm63nzy7h5qt64",
+                                    "image": "ipfs://bafybeiey44f2s7ujoioc6q6pthfvxqsw5ybqauuwfotqdm63nzy7h5qt64",
+                                    "web": "https://bafybeiey44f2s7ujoioc6q6pthfvxqsw5ybqauuwfotqdm63nzy7h5qt64.ipfs.nftstorage.link/"
+                                }
+                            },
+                            "03": {
+                                "name": "Eternal Offering",
+                                "description": "God's kingdom awaits",
+                                "uris": {
+                                    "icon": "ipfs://bafybeie7up6x6uh5mmbfbtao7svbg6kvdt5uik3wrzbc3hwwi7jdpw5ynu",
+                                    "image": "ipfs://bafybeie7up6x6uh5mmbfbtao7svbg6kvdt5uik3wrzbc3hwwi7jdpw5ynu",
+                                    "web": "https://bafybeie7up6x6uh5mmbfbtao7svbg6kvdt5uik3wrzbc3hwwi7jdpw5ynu.ipfs.nftstorage.link/"
+                                }
+                            },
+                            "04": {
+                                "name": "Gift of Family",
+                                "description": "Created in his image, taught by his love",
+                                "uris": {
+                                    "icon": "ipfs://bafybeie3jaf36xvuurap5atfxwcdjjuzmewnlg2tsmenwddzofhv4xbvfu",
+                                    "image": "ipfs://bafybeie3jaf36xvuurap5atfxwcdjjuzmewnlg2tsmenwddzofhv4xbvfu",
+                                    "web": "https://bafybeie3jaf36xvuurap5atfxwcdjjuzmewnlg2tsmenwddzofhv4xbvfu.ipfs.nftstorage.link/"
+                                }
+                            },
+                            "05": {
+                                "name": "Holy Badge of Faith",
+                                "description": "The candle in the darkness is carried by you. God is with you",
+                                "uris": {
+                                    "icon": "ipfs://bafybeidx676f47ks37kuwbhqtyqr54exqbz6w32dj7qieogb567ej4caae",
+                                    "image": "ipfs://bafybeidx676f47ks37kuwbhqtyqr54exqbz6w32dj7qieogb567ej4caae",
+                                    "web": "https://bafybeidx676f47ks37kuwbhqtyqr54exqbz6w32dj7qieogb567ej4caae.ipfs.nftstorage.link/"
+                                }
+                            },
+                            "06": {
+                                "name": "Never Give Up",
+                                "description": "When there appears to be no hope, you are not alone. Continue on",
+                                "uris": {
+                                    "icon": "ipfs://bafybeihpiigwyjqocpvb4om3ex5t6sgw2l5juh2s24emzfcm4rms3kpbke",
+                                    "image": "ipfs://bafybeihpiigwyjqocpvb4om3ex5t6sgw2l5juh2s24emzfcm4rms3kpbke",
+                                    "web": "https://bafybeihpiigwyjqocpvb4om3ex5t6sgw2l5juh2s24emzfcm4rms3kpbke.ipfs.nftstorage.link/"
+                                }
+                            },
+                            "07": {
+                                "name": "Reach",
+                                "description": "A helping hand is always extended, you must be the one to accept",
+                                "uris": {
+                                    "icon": "ipfs://bafybeidwsygleriqd4akdjfz2fihocwqixrtj4nnikim6jlxk4wngc77nm",
+                                    "image": "ipfs://bafybeidwsygleriqd4akdjfz2fihocwqixrtj4nnikim6jlxk4wngc77nm",
+                                    "web": "https://bafybeidwsygleriqd4akdjfz2fihocwqixrtj4nnikim6jlxk4wngc77nm.ipfs.nftstorage.link/"
+                                }
+                            },
+                            "08": {
+                                "name": "Trust in the Lord",
+                                "description": "Trust in the Lord and he will provide. The food of life is plentiful",
+                                "uris": {
+                                    "icon": "ipfs://bafybeifobiryuhjsjgcmyktzmexmdte5lqviicakqno75ydrtyffsshjva",
+                                    "image": "ipfs://bafybeifobiryuhjsjgcmyktzmexmdte5lqviicakqno75ydrtyffsshjva",
+                                    "web": "https://bafybeifobiryuhjsjgcmyktzmexmdte5lqviicakqno75ydrtyffsshjva.ipfs.nftstorage.link/"
+                                }
+                            },
+                            "09": {
+                                "name": "Sacrifice",
+                                "description": "The price has been paid in full by the blood of Christ. Be thankful",
+                                "uris": {
+                                    "icon": "ipfs://bafybeihot6ye25g7ykyxzj2vpc2pkuyeej6ldicjnidqq6qlkioc6k66em",
+                                    "image": "ipfs://bafybeihot6ye25g7ykyxzj2vpc2pkuyeej6ldicjnidqq6qlkioc6k66em",
+                                    "web": "https://bafybeihot6ye25g7ykyxzj2vpc2pkuyeej6ldicjnidqq6qlkioc6k66em.ipfs.nftstorage.link/"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "uris": {
+                "icon": "https://bafkreihgbmhkx4elqeppoezayyi3o73mu3ubx5o6a5l22h3y42jfb2r52a.ipfs.nftstorage.link/",
+                "telegram": "https://t.me/HOLYJesusPiece",
+                "artist": "https://britney2617.imgbb.com"
+            }
+        }
+    },
+    "license": "CC0-1.0"
 }
