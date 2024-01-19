@@ -5,10 +5,10 @@
         "minor": 1,
         "patch": 0
     },
-    "latestRevision": "2023-04-14T00:00:17.720Z",
+    "latestRevision": "2024-01-19T00:00:17.720Z",
     "registryIdentity": {
-        "name": "Example.com Token Registry",
-        "description": "An example registry demonstrating how the issuer of a non-fungible token (NFT) art collection might publish information about the collection.",
+        "name": "Holy.Art",
+        "description": "Holy Art hand drawn by Britney - Raising funds for charity and spreading hope",
         "uris": {
             "icon": "https://bafkreihgbmhkx4elqeppoezayyi3o73mu3ubx5o6a5l22h3y42jfb2r52a.ipfs.nftstorage.link/",
             "web": "https://tapswap.cash",
