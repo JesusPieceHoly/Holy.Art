@@ -34,12 +34,12 @@
                         "parse": {
                             "types": {
                                 "": {
-                                    "name": "Seek Strength",
-                                    "description": "Seek the Lord for continued strength",
+                                    "name": "Holy.Art",
+                                    "description": "Holy Art hand drawn by Britney - Raising funds for charity and spreading hope. 50% sales go charity 8% Tapswap Royalty",
                                     "uris": {
-                                        "icon": "ipfs://bafybeiapz6thahx7qfwfxkwyrn3m3pgvd2dpzhotuyztosgn7ke4jz2y6e",
-                                        "image": "ipfs://bafybeiapz6thahx7qfwfxkwyrn3m3pgvd2dpzhotuyztosgn7ke4jz2y6e",
-                                        "web": "https://bafybeiapz6thahx7qfwfxkwyrn3m3pgvd2dpzhotuyztosgn7ke4jz2y6e.ipfs.nftstorage.link/"
+                                        "icon": "ipfs://bafkreihgbmhkx4elqeppoezayyi3o73mu3ubx5o6a5l22h3y42jfb2r52a",
+                                        "image": "ipfs://bafkreihgbmhkx4elqeppoezayyi3o73mu3ubx5o6a5l22h3y42jfb2r52a",
+                                        "web": "https://bafkreihgbmhkx4elqeppoezayyi3o73mu3ubx5o6a5l22h3y42jfb2r52a.ipfs.nftstorage.link
                                     }
                                 },
                                 "01": {
@@ -121,6 +121,15 @@
                                         "icon": "ipfs://bafybeihot6ye25g7ykyxzj2vpc2pkuyeej6ldicjnidqq6qlkioc6k66em",
                                         "image": "ipfs://bafybeihot6ye25g7ykyxzj2vpc2pkuyeej6ldicjnidqq6qlkioc6k66em",
                                         "web": "https://bafybeihot6ye25g7ykyxzj2vpc2pkuyeej6ldicjnidqq6qlkioc6k66em.ipfs.nftstorage.link"
+                                    }
+                                },
+                                "10": {
+                                    "name": "Seek Strength",
+                                    "description": "Seek the Lord for continued strength",
+                                    "uris": {
+                                        "icon": "ipfs://bafybeiapz6thahx7qfwfxkwyrn3m3pgvd2dpzhotuyztosgn7ke4jz2y6e",
+                                        "image": "ipfs://bafybeiapz6thahx7qfwfxkwyrn3m3pgvd2dpzhotuyztosgn7ke4jz2y6e",
+                                        "web": "https://bafybeiapz6thahx7qfwfxkwyrn3m3pgvd2dpzhotuyztosgn7ke4jz2y6e.ipfs.nftstorage.link/"
                                     }
                                 }
                             }
